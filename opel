@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Set Uljne Pumpe Opel 2.0 CDTi - KupiTo</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: #f4f6f8;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px 15px;
+        }
+
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            background: #ffffff;
+            border-radius: 16px;
+            padding: 24px 20px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+
+        .badge {
+            display: inline-block;
+            background-color: #fff3cd;
+            color: #856404;
+            font-size: 13px;
+            font-weight: 700;
+            padding: 6px 12px;
+            border-radius: 20px;
+            margin-bottom: 12px;
+            text-align: center;
+            width: 100%;
+        }
+
+        h1 {
+            font-size: 22px;
+            font-weight: 800;
+            color: #111;
+            margin-bottom: 8px;
+            line-height: 1.3;
+        }
+
+        .subtitle {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .product-card {
+            background-color: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 14px;
+            padding: 18px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .product-title {
+            font-size: 17px;
+            font-weight: 700;
+            color: #1e293b;
+            margin-bottom: 8px;
+        }
+
+        .price-box {
+            margin: 10px 0 15px 0;
+        }
+
+        .price {
+            font-size: 28px;
+            font-weight: 800;
+            color: #16a34a;
+        }
+
+        .old-price {
+            font-size: 16px;
+            color: #94a3b8;
+            text-decoration: line-through;
+            margin-left: 8px;
+        }
+
+        .product-image {
+            max-width: 250px;
+            width: 100%;
+            height: auto;
+            border-radius: 12px;
+            margin: 15px auto 0 auto;
+            display: block;
+            border: 1px dashed #cbd5e1;
+            padding: 10px;
+            background: #fff;
+        }
+
+        .info-box {
+            background-color: #eff6ff;
+            border-left: 4px solid #2563eb;
+            padding: 14px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+
+        .info-box h3 {
+            font-size: 15px;
+            color: #1e40af;
+            margin-bottom: 6px;
+        }
+
+        .info-box ul {
+            padding-left: 18px;
+            color: #334155;
+        }
+
+        .info-box li {
+            margin-bottom: 4px;
+        }
+
+        .order-form h2 {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 14px;
+            color: #0f172a;
+        }
+
+        .form-group {
+            margin-bottom: 14px;
+        }
+
+        .form-group label {
+            display: block;
+            font-size: 13px;
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: #475569;
+        }
+
+        .form-group input, .form-group select, .form-group textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #cbd5e1;
+            border-radius: 8px;
+            font-size: 15px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .form-group input:focus {
+            border-color: #2563eb;
+        }
+
+        .submit-btn {
+            width: 100%;
+            background-color: #16a34a;
+            color: #ffffff;
+            border: none;
+            padding: 16px;
+            font-size: 18px;
+            font-weight: 700;
+            border-radius: 10px;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(22, 163, 74, 0.3);
+            transition: background-color 0.2s;
+            margin-top: 10px;
+        }
+
+        .submit-btn:hover {
+            background-color: #15803d;
+        }
+
+        .footer-note {
+            text-align: center;
+            font-size: 12px;
+            color: #94a3b8;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="badge">🚚 Plaćanje pouzećem – Pregled paketa prije plaćanja</div>
+
+    <h1>Reparaturni Set Uljne Pumpe</h1>
+    <p class="subtitle">Rješenje za problem s pritisak ulja na Opel 2.0 CDTI / TDCi motorima</p>
+
+    <!-- KARTICA PROIZVODA -->
+    <div class="product-card">
+        <div class="product-title">Semering, Piksna i Set Gumica Uljne Pumpe</div>
+        
+        <div class="price-box">
+            <span class="price">45 KM</span>
+            <span class="old-price">60 KM</span>
+        </div>
+
+        <!-- OVDJE ĆEŠ UBACITI SLIKU (Trenutno je stakleni okvir spreman) -->
+        <img src="SLIKA_PROIZVODA.jpg" alt="Set uljne pumpe Opel 2.0 CDTi" class="product-image">
+    </div>
+
+    <!-- OPIS I NAMJENA -->
+    <div class="info-box">
+        <h3>Zašto je ovaj set neophodan?</h3>
+        <ul>
+            <li><strong>Sprečava havariju motora:</strong> Fabrički semering i gumice vremenom otvrdnu, zbog čega motor gubi pritisak ulja.</li>
+            <li><strong>Kompletno rješenje:</strong> Sadrži preciznu piksnu, visokokvalitetni semering i odgovarajuće zaptivne gumice.</li>
+            <li><strong>Odgovara za modele:</strong> Opel Insignia A / B, Opel Astra J / K, Zafira C (2.0 CDTI / TDCi motori).</li>
+        </ul>
+    </div>
+
+    <!-- FORMA ZA NARUDŽBU -->
+    <form class="order-form" action="https://api.web3forms.com/submit" method="POST">
+
+        <!-- Zamijeni sa svojim Web3Forms ključem -->
+        <input type="hidden" name="access_key" value="494df420-836d-4950-8451-248cb1511ace">
+        <input type="hidden" name="subject" value="Nova Narudžba - Opel Set Uljne Pumpe">
+        <input type="hidden" name="from_name" value="KupiTo Prodavnica">
+
+        <h2>Naručite Brzo i Jednostavno</h2>
+
+        <div class="form-group">
+            <label for="name">Ime i Prezime *</label>
+            <input type="text" id="name" name="Ime i Prezime" placeholder="npr. Marko Marković" required>
+        </div>
+
+        <div class="form-group">
+            <label for="phone">Broj telefona *</label>
+            <input type="tel" id="phone" name="Broj Telefona" placeholder="npr. 061 123 456" required>
+        </div>
+
+        <div class="form-group">
+            <label for="address">Adresa za dostavu *</label>
+            <input type="text" id="address" name="Adresa" placeholder="Ulica i broj" required>
+        </div>
+
+        <div class="form-group">
+            <label for="city">Grad i Poštanski broj *</label>
+            <input type="text" id="city" name="Grad" placeholder="npr. Sarajevo 71000" required>
+        </div>
+
+        <div class="form-group">
+            <label for="note">Napomena (opcionalno)</label>
+            <input type="text" id="note" name="Napomena" placeholder="npr. Godište auta ili kontakt prije isporuke">
+        </div>
+
+        <button type="submit" class="submit-btn">POTVRDI NARUDŽBU (45 KM)</button>
+    </form>
+
+    <div class="footer-note">
+        Dostava brzinom pošte u roku 24-48h • KupiTo Store
+    </div>
+
+</div>
+
+</body>
+</html>
